@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: rgba(143, 81, 0, 0.562);
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: rgb(241, 199, 136);
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color:rgba(80, 49, 0, 0.568);
+    color: rgba(53, 24, 0, 0.74);
+  }
+  
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+  }
+  .metamask {
+    border-radius: 25px;
+  }
+  
+  .book {
+      border-radius: 25px;
+  }
