@@ -25,6 +25,7 @@ body {
   .topnav a.active {
     background-color:rgba(80, 49, 0, 0.568);
     color: rgba(53, 24, 0, 0.74);
+    
   }
   
 .center {
